@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Elevens" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="elevens" />
+    <module name="COM498 Assignment 2" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
